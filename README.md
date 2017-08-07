@@ -1,4 +1,4 @@
-arND Path Planning Project
+CarND Path Planning Project
 ==========================
 
 Introduction
